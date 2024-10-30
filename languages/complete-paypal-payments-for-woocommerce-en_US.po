@@ -1,0 +1,1411 @@
+# Copyright (C) 2022 Complete PayPal Payments For WooCommerce
+# This file is distributed under the same license as the Complete PayPal Payments For WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Complete PayPal Payments For WooCommerce 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/complete-paypal-"
+"payments-for-woocommerce\n"
+"POT-Creation-Date: 2022-10-25 10:16:38+00:00\n"
+"PO-Revision-Date: 2022-10-25 15:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:25
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:38
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:84
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:39
+msgid "PayPal Checkout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:26
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:57
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:91
+msgid "Accept PayPal, PayPal Credit and alternative payment types."
+msgstr ""
+
+#. Description of the plugin/theme
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:39
+msgid ""
+"PayPal Checkout with Smart Payment Buttons gives your buyers a simplified "
+"and secure checkout experience."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:91
+msgid "Card code"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:96
+msgid "Card number"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:100
+msgid "Expiry (MM/YY)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:164
+msgid "Gateway disabled"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:164
+msgid "PayPal does not support your store currency."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:237
+msgid "Refund failed."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:256
+msgid "This represents the fee PayPal collects for the transaction."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-gateway.php:257
+msgid "PayPal Fee:"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-product.php:74
+msgid ""
+"Please choose the quantity of items you wish to add to your cart&hellip;"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-product.php:81
+msgid "Please choose a product to add to your cart&hellip;"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-product.php:127
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-product.php:143
+msgid "Invalid value posted for %s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-product.php:150
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:102
+msgid "Continue to payment"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:410
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1099
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:621
+msgid "Card Details"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:421
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1110
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:632
+msgid "Address Verification Result"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:430
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1119
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:641
+msgid "Card Security Code Result"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:447
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1140
+msgid "Payment via %s : %s."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:453
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:505
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1136
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:661
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:675
+msgid "%s Transaction ID: %s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:508
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1478
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:678
+msgid ""
+"Payment authorized. Change payment status to processing or complete to "
+"capture funds."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:858
+msgid "Refunded %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:864
+msgid "Payment via %s Pending. Pending reason: %s."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:866
+msgid "Refund Amount %1$s - Refund ID: %2$s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1160
+msgid "Complete PayPal Payments For WooCommerce Version: %s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1161
+msgid "WooCommerce Version: %s"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-request.php:1481
+msgid "Payment pending (%s)."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:56
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:442
+msgid "PayPal"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:73
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:155
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:259
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:363
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:467
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:604
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:689
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:776
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:862
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:948
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1034
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1094
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:75
+msgid "Enable PayPal Checkout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:76
+msgid ""
+"Check this box to enable the payment gateway. Leave unchecked to disable it."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:81
+msgid "Title"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:83
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:88
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:580
+msgid "Description"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:90
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:95
+msgid "Account Settings"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:101
+msgid "PayPal sandbox"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:103
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:105
+msgid ""
+"Check this box to enable test mode so that all transactions will hit "
+"PayPal’s sandbox server instead of the live server. This should only be used "
+"during development as no real transactions will occur when this is enabled."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:109
+msgid ""
+"PayPal REST API Details &nbsp;&nbsp;&nbsp;<a target=\"_blank\" href="
+"\"https://developer.paypal.com/dashboard/applications/live\" style=\"text-"
+"decoration: none;\">Get a PayPal Live Client ID and Secret</a>"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:113
+msgid "PayPal Client ID"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:115
+msgid "Enter your PayPal Client ID."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:120
+msgid "PayPal Secret"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:122
+msgid "Enter your PayPal Secret."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:127
+msgid ""
+"PayPal REST API Details &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a target=\"_blank\" href="
+"\"https://developer.paypal.com/dashboard/applications/sandbox\" style=\"text-"
+"decoration: none;\">Get a PayPal Sandbox Client ID and Secret</a>"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:131
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:133
+msgid "Enter your PayPal Sandbox Client ID."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:138
+msgid "Sandbox Secret"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:140
+msgid "Enter your PayPal Sandbox Secret."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:148
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:793
+msgid "Product Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:150
+msgid ""
+"Enable the Product specific button settings, and the options set will be "
+"applied to the PayPal Smart buttons on your Product pages."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:158
+msgid "Enable PayPal Smart Button on the Product Pages."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:164
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:268
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:372
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:476
+msgid "Hide Funding Method(s)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:167
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:271
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:375
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:479
+msgid ""
+"Funding methods selected here will be hidden from buyers during checkout."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:171
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:275
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:379
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:483
+msgid "Credit or Debit Card"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:172
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:276
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:380
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:484
+msgid "PayPal Credit"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:173
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:277
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:381
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:485
+msgid "Pay Later"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:174
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:278
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:382
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:486
+msgid "Bancontact"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:175
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:279
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:383
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:487
+msgid "BLIK"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:176
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:280
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:384
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:488
+msgid "eps"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:177
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:281
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:385
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:489
+msgid "giropay"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:178
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:282
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:386
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:490
+msgid "iDEAL"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:179
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:283
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:387
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:491
+msgid "Mercado Pago"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:180
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:284
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:388
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:492
+msgid "MyBank"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:181
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:285
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:389
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:493
+msgid "Przelewy24"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:182
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:286
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:390
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:494
+msgid "SEPA-Lastschrift"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:183
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:287
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:391
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:495
+msgid "Sofort"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:184
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:288
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:392
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:496
+msgid "Venmo"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:188
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:292
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:396
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:500
+msgid "Button Layout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:191
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:295
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:399
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:503
+msgid ""
+"Select Vertical for stacked buttons, and Horizontal for side-by-side buttons."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:195
+msgid "Horizontal (Recommended)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:196
+msgid "Vertical"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:200
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:304
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:408
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:512
+msgid "Button Color"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:203
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:307
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:411
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:515
+msgid "Set the color you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:207
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:311
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:415
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:519
+msgid "Gold (Recommended)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:208
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:312
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:416
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:520
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "Blue"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:209
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:313
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:417
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:521
+msgid "Silver"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:210
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:314
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:418
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:522
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:668
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:755
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:841
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:927
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1013
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "White"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:211
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:315
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:419
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:523
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:668
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:755
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:841
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:927
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1013
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "Black"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:215
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:319
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:423
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:527
+msgid "Button Shape"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:218
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:322
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:426
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:530
+msgid "Set the shape you would like to use for the buttons."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:222
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:326
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:430
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:534
+msgid "Rect (Recommended)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:223
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:327
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:431
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:535
+msgid "Pill"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:227
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:331
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:435
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:539
+msgid "Button Label"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:230
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:334
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:438
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:542
+msgid "Set the label type you would like to use for the PayPal button."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:234
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:338
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:546
+msgid "PayPal (Recommended)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:235
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:339
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:443
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:547
+msgid "Checkout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:236
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:340
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:444
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:548
+msgid "Buy Now"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:237
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:341
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:445
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:549
+msgid "Pay"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:241
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:345
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:449
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:553
+msgid "Tagline"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:245
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:349
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:453
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:557
+msgid "Enable tagline"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:247
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:351
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:455
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:559
+msgid ""
+"Add the tagline. This line will only show up, if you select a horizontal "
+"layout."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:252
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:879
+msgid "Cart Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:254
+msgid ""
+"Enable the Cart specific button settings, and the options set will be "
+"applied to the PayPal buttons on your Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:262
+msgid "Enable PayPal Smart Button on the Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:265
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:299
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:403
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:507
+msgid "Vertical (Recommended)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:300
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:404
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:508
+msgid "Horizontal"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:356
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:358
+msgid ""
+"Enable the checkout specific button settings, and the options set will be "
+"applied to the PayPal buttons on your checkout page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:366
+msgid "Enable PayPal Smart Button on the Checkout page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:369
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to checkout page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:460
+msgid "Mini Cart Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:462
+msgid ""
+"Enable the Mini Cart specific button settings, and the options set will be "
+"applied to the PayPal buttons on your Mini Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:470
+msgid "Enable PayPal Smart Button on the Mini Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:473
+msgid ""
+"Optionally override global button settings above and configure buttons "
+"specific to Mini Cart page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:567
+msgid "Order Review Page options"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:573
+msgid "Page Title"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:575
+msgid ""
+"Set the Page Title value you would like used on the PayPal Checkout order "
+"review page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:576
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:590
+msgid "Confirm your PayPal order"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:583
+msgid ""
+"Set the Description you would like used on the PayPal Checkout order review "
+"page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:584
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:59
+msgid ""
+"<strong>You're almost done!</strong><br>Review your information before you "
+"place your order."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:587
+msgid "Button Text"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:589
+msgid ""
+"Set the Button Text you would like used on the PayPal Checkout order review "
+"page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:597
+msgid "Pay Later Messaging Settings"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:605
+msgid "Enable Pay Later Messaging"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:611
+msgid "Page Type"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:616
+msgid "Home"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:616
+msgid "Category"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:616
+msgid "Product"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:616
+msgid "Cart"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:616
+msgid "Payment"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:620
+msgid "Home Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:626
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:713
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:799
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:885
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:971
+msgid "Layout Type"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:632
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:719
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:805
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:891
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:977
+msgid "Text Layout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:632
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:719
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:805
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:891
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:977
+msgid "Flex Layout"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:635
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:722
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:808
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:894
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:980
+msgid "Logo Type"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:641
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:728
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:814
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:900
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:986
+msgid "Primary"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:641
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:728
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:814
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:900
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:986
+msgid "Alternative"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:641
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:728
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:814
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:900
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:986
+msgid "Inline"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:641
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:728
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:814
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:900
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:986
+msgid "None"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:644
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:731
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:817
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:903
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:989
+msgid "Logo Position"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:650
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:737
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:823
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:909
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:995
+msgid "Left"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:650
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:737
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:823
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:909
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:995
+msgid "Right"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:650
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:737
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:823
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:909
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:995
+msgid "Top"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:653
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:740
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:826
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:912
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:998
+msgid "Text Size"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "10 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "11 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "12 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "13 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "14 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "15 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:659
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:746
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:832
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:918
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1004
+msgid "16 px"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:662
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:749
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:835
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:921
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1007
+msgid "Text Color"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:668
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:755
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:841
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:927
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1013
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "Monochrome"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:668
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:755
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:841
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:927
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1013
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "Grayscale"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:671
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:758
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:844
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:930
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1016
+msgid "Color"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "White (No Border)"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:677
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:764
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:850
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:936
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1022
+msgid "Gray"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:680
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:767
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:853
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:939
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1025
+msgid "Ratio"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:686
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:773
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:859
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:945
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1031
+msgid "Flexes between 120px and 300px wide"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:686
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:773
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:859
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:945
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1031
+msgid "160px wide"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:686
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:773
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:859
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:945
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1031
+msgid "Flexes between 250px and 768px wide"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:686
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:773
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:859
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:945
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1031
+msgid "Flexes between 250px and 1169px wide"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:690
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on Home "
+"page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:697
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:784
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:870
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:956
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1042
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:706
+msgid "Category Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:777
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"category page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:863
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"product page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:949
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on cart "
+"page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:965
+msgid "Payment Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1035
+msgid ""
+"I need a shortcode so that I can place the message in a better spot on "
+"payment page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1053
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1059
+msgid "Brand Name"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1061
+msgid ""
+"This controls what users see as the brand / company name on PayPal review "
+"pages."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1066
+msgid "Landing Page"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1069
+msgid ""
+"The type of landing page to show on the PayPal site for customer checkout. "
+"PayPal Account Optional must be checked for this option to be used."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1070
+msgid "Login"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1071
+msgid "Billing"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1072
+msgid "No Preference"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1077
+msgid "Instant Payments "
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1081
+msgid ""
+"If you enable this setting, PayPal will be instructed not to allow the buyer "
+"to use funding sources that take additional time to complete (for example, "
+"eChecks). Instead, the buyer will be required to use an instant funding "
+"source, such as an instant transfer, a credit/debit card, or PayPal Credit."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1084
+msgid "Require Instant Payment"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1087
+msgid "Send Item Details"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1088
+msgid "Send line item details to PayPal"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1090
+msgid ""
+"Include all line item details in the payment request to PayPal so that they "
+"can be seen from the PayPal transaction details page."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1096
+msgid "Enable advanced credit and debit card payments"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1098
+msgid ""
+"Currently PayPal support Unbranded payments in US, AU, UK, FR, IT, CA, DE "
+"and ES only. <br> <br>Advanced credit and debit cards requires that your "
+"business account be evaluated and approved by PayPal. <br><a target=\"_blank"
+"\" href=\"https://www.sandbox.paypal.com/bizsignup/entry/product/ppcp"
+"\">Enable for Sandbox Account</a> <span> | </span> <a target=\"_blank\" href="
+"\"https://www.paypal.com/bizsignup/entry/product/ppcp\">Enable for Live "
+"Account</a><br>"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1101
+msgid "Contingency for 3D Secure"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1105
+msgid "3D Secure when required"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1106
+msgid "Always trigger 3D Secure"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1110
+msgid ""
+"3D Secure benefits cardholders and merchants by providing an additional "
+"layer of verification using Verified by Visa, MasterCard SecureCode and "
+"American Express SafeKey."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1113
+msgid "Payment action"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1116
+msgid ""
+"Choose whether you wish to capture funds immediately or authorize payment "
+"only."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1120
+msgid "Capture"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1121
+msgid "Authorize"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1125
+msgid "Invoice prefix"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1127
+msgid ""
+"Please enter a prefix for your invoice numbers. If you use your PayPal "
+"account for multiple stores ensure this prefix is unique as PayPal will not "
+"allow orders with the same invoice number."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1132
+msgid "Enable/Disable coupons"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1134
+msgid "Enable the use of coupon codes"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1135
+msgid "Coupons can be applied from the order review."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1139
+msgid "Credit Card Statement Name"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1141
+msgid ""
+"The value entered here will be displayed on the buyer's credit card "
+"statement."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1147
+msgid "Debug log"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1149
+msgid "Enable logging"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce-settings.php:1151
+msgid ""
+"Log PayPal events, such as Webhook, Payment, Refund inside %s Note: this may "
+"log personal information. We recommend using this for debugging purposes "
+"only and deleting the logs when finished."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:80
+msgid "Configure"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:81
+msgid "Support"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:82
+msgid "Write a Review"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:94
+msgid "<b>Enable Customer Phone Number: </b>"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:95
+msgid ""
+"If you require a billing phone number during checkout, we recommend you "
+"enable the contact phone number option in your PayPal account. When enabled, "
+"PayPal will provide the customer's phone number, which the plugin will use "
+"to populate the checkout page. It will improve conversion rates since the "
+"customer won't have to enter their phone number."
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:96
+msgid "%1$sEnable phone number instructions%2$s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/class-complete-paypal-payments-for-woocommerce.php:105
+msgid "Complete PayPal Payments For WooCommerce"
+msgstr ""
+
+#: includes/class-complete-paypal-payments-for-woocommerce.php:106
+msgid ""
+"Hey, We would like to thank you for using our plugin. We would appreciate it "
+"if you could take a moment to drop a quick review that will inspire us to "
+"keep going."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:267
+msgid ""
+"BUYER_COMPLAINT: The payer initiated a dispute for this captured payment "
+"with PayPal."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:270
+msgid ""
+"CHARGEBACK: The captured funds were reversed in response to the payer "
+"disputing this captured payment with the issuer of the financial instrument "
+"used to pay for this captured payment."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:273
+msgid "ECHECK: The payer paid by an eCheck that has not yet cleared."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:276
+msgid ""
+"INTERNATIONAL_WITHDRAWAL: Visit your online account. In your **Account "
+"Overview**, accept and deny this payment."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:279
+msgid ""
+"No additional specific reason can be provided. For more information about "
+"this captured payment, visit your account online or contact PayPal."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:282
+msgid "PENDING_REVIEW: The captured payment is pending manual review."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:285
+msgid ""
+"RECEIVING_PREFERENCE_MANDATES_MANUAL_ACTION: The payee has not yet set up "
+"appropriate receiving preferences for their account. For more information "
+"about how to accept or deny this payment, visit your account online. This "
+"reason is typically offered in scenarios such as when the currency of the "
+"captured payment is different from the primary holding currency of the payee."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:288
+msgid "REFUNDED: The captured funds were refunded."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:291
+msgid ""
+"TRANSACTION_APPROVED_AWAITING_FUNDING: The payer must send the funds for "
+"this captured payment. This code generally appears for manual EFTs."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:294
+msgid "UNILATERAL: The payee does not have a PayPal account."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:297
+msgid "VERIFICATION_REQUIRED: The payee's PayPal account is not verified."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:301
+msgid "No pending reason provided."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:305
+msgid "Payment via %s Pending. PayPal Pending reason: %s."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:308
+msgid "Payment via %s declined. PayPal declined reason: %s."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:313
+msgid "Payment via %s partially refunded. PayPal reason: %s."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:316
+msgid "Payment via %s refunded. PayPal reason: %s."
+msgstr ""
+
+#: includes/complete-paypal-payments-for-woocommerce-function.php:318
+msgid "Payment via %s failed. PayPal reason: %s."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:240
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:258
+msgid "OR"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:356
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:356
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:358
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:374
+msgid "Edit"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:358
+msgid "Billing details"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:374
+msgid "Shipping details"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:450
+msgid "Create an account?"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:457
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:656
+msgid "Payment via %s : %s ."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:669
+msgid "Payment via %s Pending. PayPal reason: %s."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:918
+msgid "Capture Charge"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:1045
+msgid "Cancel order"
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:1078
+msgid ""
+"We cannot process your order with the payment information that you provided. "
+"Please use an alternate payment method."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:1081
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: public/class-complete-paypal-payments-for-woocommerce-button-manager.php:1116
+msgid "3D Secure response"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://github.com/completepaypalpayments/complete-paypal-payments-for-"
+"woocommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "completepaypalpayments"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/completepaypalpayments/"
+msgstr ""
